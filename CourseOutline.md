@@ -10,6 +10,7 @@ At the end of this course, learners will have built a Task Manager Application, 
 * A text editor like VS Code.  
 * A web browser like Chrome or Mozilla Firefox installed. 
 
+
 ## 	**Chapter 1: React fundamentals**
 
 ### **Lesson 1.1: What is React?**
@@ -34,7 +35,7 @@ At the end of this course, learners will have built a Task Manager Application, 
   * Learner will be able to do conditional rendering in React.  
 * **Exercise**: Create a `Header` component using JSX that renders the application's title: "Task Manager." Use a prop to pass the title from the parent component to the `Header` component.
 
-  ## **Chapter 2: React components**
+## **Chapter 2: React components**
 
 ### **Lesson 2.1: Building custom React components**
 
@@ -73,7 +74,7 @@ At the end of this course, learners will have built a Task Manager Application, 
   * Learner will be able to use TailwindCSS in React components  
 * **Exercise**: Style the `Task` component to differentiate between completed and pending tasks. Use a combination of CSS files, inline styles, and CSS modules to achieve this.
 
-  ## **Chapter 3: Beyond the fundamentals**
+## **Chapter 3: Beyond the fundamentals**
 
 ### **Lesson 3.1: Lifecycle hooks in React**
 
@@ -108,7 +109,7 @@ At the end of this course, learners will have built a Task Manager Application, 
   * Learner will be able to handle loading and error state for APIs  
 * **Exercise**: Integrate a mock API (using, jsonplaceholder.typicode.com) to fetch initial tasks for the Task Manager application. Implement loading and error states.
 
-  ## **Chapter 4: Going further**
+## **Chapter 4: Going further**
 
 ### **Lesson 4.1: Optimizing React applications**
 
